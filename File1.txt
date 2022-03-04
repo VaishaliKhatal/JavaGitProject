@@ -2,6 +2,8 @@ Hello world!!
 
 Change for commit am for WI1.
 
-Change for diff WI1
+Change: for diff WI1
 
-Change for bug1 fix
+Change: for bug1 fix
+
+Change for WI3 by team mate for 3-way merging conflict
