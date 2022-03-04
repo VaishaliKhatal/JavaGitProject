@@ -2,4 +2,6 @@ Hello world!!
 
 Change for commit am for WI1.
 
-Chnage for diff WI1
+Change for diff WI1
+
+Change for bug1 fix
